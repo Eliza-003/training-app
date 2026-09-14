@@ -1,0 +1,18 @@
+{
+  "upperBody": [
+    "pushUp",
+    "chinUps",
+    "mountainClimbers",
+    "overheadPress",
+    "chestPress"
+  ],
+  "lowerBody": ["squat", "deadLift", "bulgarianSquat", "lunge", "stepUp"],
+  "core": ["sitUp", "plank", "birdDog", "russianTwist", "deadBug"],
+  "glute": [
+    "hipHinge",
+    "standingKickback",
+    "gluteBridge",
+    "goodMorning",
+    "lateralWalk"
+  ]
+}
