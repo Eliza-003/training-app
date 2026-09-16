@@ -1,2 +1,1 @@
-import data from "./exercises.json";
-console.log(data);
+let jsonString = require("./exercises.json");
